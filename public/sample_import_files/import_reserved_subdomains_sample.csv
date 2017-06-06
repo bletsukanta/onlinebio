@@ -1,0 +1,6 @@
+subdomain_name,domain_name,subdomain_type
+resv_word1,accountant.bio,Blocked
+resv_word2,advisor.bio,Premium
+resv_word3,architect.bio,Super Premium
+resv_word4,artist.bio,Blocked
+resv_word5,attorney.bio,Super Premium
